@@ -1,1 +1,3 @@
 # NLP-Zero-to-Hero
+
+This repo is currenly in progress... PLease come back later...
